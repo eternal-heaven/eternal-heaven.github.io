@@ -9,3 +9,16 @@ html
 	text-decoration:underline;
 	color:#FFFFFF;
 }
+
+.landingcontainer
+{
+ 	display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:20%;
+}
+
+.landing
+{
+	width:50%;
+}
