@@ -3,6 +3,12 @@ html
 	background-color:#0000FF;
 }
 
+.biglinkcontainer
+{
+	margin-top:25%;
+	margin-left:36%;
+}
+
 .biglink:link
 {
 	font-size:2em;
