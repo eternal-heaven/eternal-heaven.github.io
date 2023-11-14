@@ -7,7 +7,7 @@ html
 {
 	font-size:2em;
 	text-decoration:none;
-	text-shadow: 0 0 2px #FFFFFF, 0 0 2px #FFFFFF, 0 0 2px #FFFFFF;
+	text-shadow: 0 0 2px #FFFFFF, 0 0 2px #FFFFFF;
 	color:#FFFFFF;
 }
 
@@ -15,7 +15,7 @@ html
 {
 	font-size:2em;
 	text-decoration:none;
-	text-shadow: 0 0 2px #FFFFFF, 0 0 2px #FFFFFF, 0 0 2px #FFFFFF;
+	text-shadow: 0 0 2px #FFFFFF, 0 0 2px #FFFFFF;
 	color:#FFFFFF;
 }
 
@@ -23,7 +23,7 @@ html
 {
 	font-size:2em;
 	text-decoration:underline;
-	text-shadow: 0 0 2px #FFFFFF, 0 0 2px #FFFFFF, 0 0 2px #FFFFFF;
+	text-shadow: 0 0 2px #FFFFFF, 0 0 2px #FFFFFF;
 	color:#FFFFFF;
 }
 
@@ -31,7 +31,7 @@ html
 {
 	font-size:2em;
 	text-decoration:underline;
-	text-shadow: 0 0 2px #FFFFFF, 0 0 2px #FFFFFF, 0 0 2px #FFFFFF;
+	text-shadow: 0 0 2px #FFFFFF, 0 0 2px #FFFFFF;
 
 	color:#FFFFFF;
 }
