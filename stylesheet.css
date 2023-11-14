@@ -3,10 +3,31 @@ html
 	background-color:#0000FF;
 }
 
-.biglink
+.biglink:link
+{
+	font-size:2em;
+	text-decoration:none;
+	color:#FFFFFF;
+}
+
+.biglink:visited
+{
+	font-size:2em;
+	text-decoration:none;
+	color:#FFFFFF;
+}
+
+.biglink:hover
 {
 	font-size:2em;
 	text-decoration:underline;
+	color:#FFFFFF;
+}
+
+.biglink:active
+{
+	font-size:2em;
+	text-decoration:none;
 	color:#FFFFFF;
 }
 
